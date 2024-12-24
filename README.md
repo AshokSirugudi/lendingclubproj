@@ -1,9 +1,7 @@
-# this is demo project 
-# going through the functionality of Git & GitHub
-# executing all the various commands for all different actions
-# found an interesting and interactive website for GIT practice 
+# This is demo project, going through the functionality of Git & GitHub.
+# refreshing and executing all the various commands for all different actions. Found an interesting and interactive website for GIT practice 
 # https://learngitbranching.js.org/
-# created a basic structure for the project 
-# the project is more inclined towards Data engineering - Data cleaning, transformations and aligning to business goals. 
-# the full fledged project will be executed in a different repository. 
+# Created a basic structure for the project 
+# This project is more inclined towards Data engineering - Data cleaning, transformations and strategies. 
+
 

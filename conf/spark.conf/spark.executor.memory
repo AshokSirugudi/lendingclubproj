@@ -1,1 +1,3 @@
 # spark memory configurations are defined here
+
+spark.executor,memory =2G

@@ -1,1 +1,4 @@
 #define the hive database configurations here in this file
+
+hive.database = retail.db
+input.file.path = "/user/public/inputfile.csv"

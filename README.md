@@ -29,3 +29,5 @@ Files:
 
 
 Above is the basic/minimum folders & files structure for the all the data engineering projects. In the GITHUB project itself we can verify the sample content of a simple configuration in files and folders. There might few additional files as results of testing and various GITHUB operations from local to remote repository and vice-versa. 
+The repo is first created on remote and then cloned to local.
+The Branch- feature1 created as a working branch. 
